@@ -1,5 +1,5 @@
 // data.js
-const data = [
+var data = [
   {
     "福袋": "月狼福袋II",
     "內容物": "噗噗紀念幣",
