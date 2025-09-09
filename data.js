@@ -1,4 +1,5 @@
 // data.js
+const dataVersion = "2025-09-09"; 
 const data = [
   {
     "福袋": "月狼福袋II",
