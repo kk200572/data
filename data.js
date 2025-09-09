@@ -1,5 +1,5 @@
 // data.js
-const dataVersion = 1694256000000; // 最新更新時間的毫秒 timestamp
+const dataVersion = "v2"; // 每次更新手動改版本號
 const data = [
   {
     "福袋": "月狼福袋II",
