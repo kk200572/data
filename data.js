@@ -1,5 +1,5 @@
 // data.js
-const dataVersion = "v2.1"; // 每次更新手動改版本號
+const dataVersion = "v2.1.1"; // 每次更新手動改版本號
 const data = [
   {
     "福袋": "白露福袋",
