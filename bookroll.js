@@ -1,6 +1,6 @@
 // bookroll.js
-const dataVersion = "v1"; // 每次更新手動改版本號
-const data = [
+window.dataVersion = "v2"; // 每次更新手動改版本號
+window.data = [
   {
     "來源": "貪吃小貓",
     "等級": 11,
